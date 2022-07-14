@@ -1,4 +1,4 @@
-//Crie um component de class
+// Crie um component de class
 
 // Crie uma arrow function que receba uma mensagem e exiba na tela
 
